@@ -6,7 +6,7 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 ## Etapa 2.
 1. Entrada:
  - DiaInicio
- - DkiaFinal
+ - DiaFinal
  - HofraInicio
  - HoraFinal
 2. Proceso
@@ -14,11 +14,11 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
  3. Salida
  ~~~
  +------------------------------------------------------------------+
- |          DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO                                                                 |
+ |          DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO          |                                                       
  +------------------------------------------------------------------+
- | Díam Inicial:                                                                 |
- |                                                                  |
+ | Dia Inicial: lunes                   Hora Inicial:10             |                
+ | Dia Final                            Hora Final: 16              |                     
  +------------------------------------------------------------------+
- |                                                                  |
+ | Entre las 10hrs del lunes y las 16 hrs del miercoles hay 54 horas|                                                                
  |                                                                  |
  +------------------------------------------------------------------+
