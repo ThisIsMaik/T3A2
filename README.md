@@ -7,7 +7,7 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 1. Entrada:
  - DiaInicio
  - DiaFinal
- - HofraInicio
+ - HoraInicio
  - HoraFinal
 2. Proceso
  - Diferencia de horas del dia posterior menos el dia anterior.
