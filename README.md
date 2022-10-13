@@ -17,7 +17,7 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
  |          DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO          |                                                       
  +------------------------------------------------------------------+
  | Dia Inicial: lunes                   Hora Inicial:10             |                
- | Dia Final                            Hora Final: 16              |                     
+ | Dia Final: viernes                   Hora Final: 16              |                     
  +------------------------------------------------------------------+
  | Entre las 10hrs del lunes y las 16 hrs del miercoles hay 54 horas|                                                                
  |                                                                  |
