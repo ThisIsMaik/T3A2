@@ -22,3 +22,8 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
  | Entre las 10hrs del lunes y las 16 hrs del miercoles hay 54 horas|                                                                
  |                                                                  |
  +------------------------------------------------------------------+
+
+
+## Etapa 3. Diseño de la solucion
+
+![](https://github.com/ThisIsMaik/T3A2/blob/main/T3A2.png?raw=true)
